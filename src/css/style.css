@@ -529,6 +529,10 @@ img.with-border{
 	margin-left:80px;
 }
 
+.more-padding{
+  padding-left:50px;
+}
+
 /* ----------------------------------------------*/
 /* 03.2 Child Menu								 */
 /* ----------------------------------------------*/
@@ -3044,7 +3048,7 @@ button.mfp-close, button.mfp-arrow {
 /* 02.2 Logo & Nav Position	 					 */
 /* ----------------------------------------------*/
 .logo-wrapper{
-	margin:0;
+	margin:10;
 }
 
 #nav-menu { display: none }
@@ -3131,7 +3135,7 @@ button.mfp-close, button.mfp-arrow {
 .first-child-margin,
 .last-child-margin,
 .split-margin{
-	margin:0
+	margin:10
 }
 
 /* ----------------------------------------------*/
