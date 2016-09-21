@@ -70,7 +70,7 @@
        		raiseOnDrag: false,
        		icon: ' ',
        		map: map, 
-         	labelContent: '<div class="de-icon circle small-size" style="background-color:#0000FF"><i class="de-icon-food"></i></div>',
+         	labelContent: '<div class="de-icon circle small-size" style="background-color:#F6700E"><i class="de-icon-food"></i></div>',
        		labelAnchor: new google.maps.Point(0, 0),
        		labelClass: "labels" // the CSS class for the label
      		});
